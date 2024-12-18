@@ -90,7 +90,7 @@ button:hover {
 .names{
   font-weight: 900;
 }
-@media (max-width: 375px) {
+/* @media (max-width: 375px) {
     .container {
         width: 250px;
     }
@@ -168,4 +168,4 @@ button:hover {
     #result-message {
         font-size: 30px;
     }
-}
+} */
