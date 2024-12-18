@@ -77,14 +77,19 @@ button:hover {
     color: rgb(172, 28, 28);
 }
 
-#result-percentage {
+.result-percentage {
     font-size: 50px;
+    font-weight: 900;
+    font-size: 80px;
 }
 
-#result-message {
+.result-message {
     margin-top: 2rem;
+    font-size: 25px;
 }
-
+.names{
+  font-weight: 900;
+}
 @media (max-width: 375px) {
     .container {
         width: 250px;
